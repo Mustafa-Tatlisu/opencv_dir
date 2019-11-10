@@ -1,2 +1,2 @@
 # opencv_dir
-Open cv related files/folders/projects
+Open cv and ROS related files/folders/projects
